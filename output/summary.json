@@ -1,0 +1,12 @@
+{
+  "start_date": "2018-01-01",
+  "end_date": "2026-02-01",
+  "n_months": 98,
+  "steps": [
+    "Merged UBOS CIPI panel with MoFPED bulk macro-fiscal datasets.",
+    "Constructed monthly inflation rates for materials and sector indices.",
+    "Estimated HAC-robust dynamic regressions with lagged macro-fiscal drivers.",
+    "Ran expanding-window one-step-ahead backtests against AR(1) benchmark.",
+    "Exported coefficients, metrics, forecast paths, and reproducibility summary."
+  ]
+}

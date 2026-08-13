@@ -1,0 +1,17 @@
+dependent,driver,long_run_multiplier,ar_sum
+infl_materials,d_exrate,0.24123921468050327,-0.3542543872877563
+infl_materials,d_import_value,0.004716074845149723,-0.3542543872877563
+infl_materials,d_fuel,0.017421803059034655,-0.3542543872877563
+infl_materials,d_import_tax,0.0,-0.3542543872877563
+infl_residential_proxy,d_exrate,0.07595609869087527,0.0
+infl_residential_proxy,d_import_value,0.0,0.0
+infl_residential_proxy,d_fuel,0.0,0.0
+infl_residential_proxy,d_import_tax,-0.005540119468843772,0.0
+infl_nonresidential_proxy,d_exrate,0.25725932858439743,-0.1689864099211393
+infl_nonresidential_proxy,d_import_value,0.0,-0.1689864099211393
+infl_nonresidential_proxy,d_fuel,0.0,-0.1689864099211393
+infl_nonresidential_proxy,d_import_tax,0.023694180277845017,-0.1689864099211393
+infl_wages,d_exrate,-0.32099727819487334,0.3769384925975283
+infl_wages,d_import_value,0.0,0.3769384925975283
+infl_wages,d_fuel,-0.015201835504380732,0.3769384925975283
+infl_wages,d_import_tax,-0.017074383651273298,0.3769384925975283
