@@ -1,0 +1,13 @@
+outcome,driver,share
+infl_materials,d_exrate,0.05195485603359295
+infl_materials,d_import_value,0.04201719428791631
+infl_materials,d_fuel,0.11840738649877468
+infl_materials,d_import_tax,0.025253768039953172
+infl_residential_proxy,d_exrate,0.022050719931282804
+infl_residential_proxy,d_import_value,0.03164624946125469
+infl_residential_proxy,d_fuel,0.0545925195461106
+infl_residential_proxy,d_import_tax,0.037816541919546594
+infl_nonresidential_proxy,d_exrate,0.022226157179051593
+infl_nonresidential_proxy,d_import_value,0.035557488420657535
+infl_nonresidential_proxy,d_fuel,0.05659454216682361
+infl_nonresidential_proxy,d_import_tax,0.04267567211208061
