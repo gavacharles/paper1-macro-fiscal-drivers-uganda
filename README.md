@@ -11,7 +11,6 @@ Python analysis scripts and outputs for a study of how fiscal policy and macroec
 | `output/` | Analysis dataset, regression coefficients, significant effects, forecast paths and metrics, run summary |
 | `output_housing/` | ARDL coefficients and long-run multipliers, VAR Granger tests, impulse-response and FEVD summaries, model metadata |
 | `figures/`, `figures_housing/` | Figures for the two analyses |
-| `RESULTS_DISCUSSION_METHODS.md`, `DETAILED_COMPREHENSIVE_REPORT.md`, `PAPER1_EXECUTION_REPORT.md` | Write-ups of methods and results |
 
 ## Running
 
